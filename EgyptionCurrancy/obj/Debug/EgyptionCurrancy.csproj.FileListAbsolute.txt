@@ -1,0 +1,30 @@
+D:\courses\work\C#\EgyptionCurrancy\EgyptionCurrancy\bin\Debug\EgyptionCurrancy.exe.config
+D:\courses\work\C#\EgyptionCurrancy\EgyptionCurrancy\bin\Debug\EgyptionCurrancy.exe
+D:\courses\work\C#\EgyptionCurrancy\EgyptionCurrancy\bin\Debug\EgyptionCurrancy.pdb
+D:\courses\work\C#\EgyptionCurrancy\EgyptionCurrancy\obj\Debug\EgyptionCurrancy.csprojResolveAssemblyReference.cache
+D:\courses\work\C#\EgyptionCurrancy\EgyptionCurrancy\obj\Debug\EgyptionCurrancy.Form1.resources
+D:\courses\work\C#\EgyptionCurrancy\EgyptionCurrancy\obj\Debug\EgyptionCurrancy.Properties.Resources.resources
+D:\courses\work\C#\EgyptionCurrancy\EgyptionCurrancy\obj\Debug\EgyptionCurrancy.csproj.GenerateResource.Cache
+D:\courses\work\C#\EgyptionCurrancy\EgyptionCurrancy\obj\Debug\EgyptionCurrancy.exe
+D:\courses\work\C#\EgyptionCurrancy\EgyptionCurrancy\obj\Debug\EgyptionCurrancy.pdb
+E:\courses\Visual Tasks\Tasks of Dr hussien\EgyptionCurrancy\EgyptionCurrancy\bin\Debug\EgyptionCurrancy.exe.config
+E:\courses\Visual Tasks\Tasks of Dr hussien\EgyptionCurrancy\EgyptionCurrancy\obj\Debug\EgyptionCurrancy.exe
+E:\courses\Visual Tasks\Tasks of Dr hussien\EgyptionCurrancy\EgyptionCurrancy\obj\Debug\EgyptionCurrancy.pdb
+E:\courses\Visual Tasks\Tasks of Dr hussien\EgyptionCurrancy\EgyptionCurrancy\bin\Debug\EgyptionCurrancy.exe
+E:\courses\Visual Tasks\Tasks of Dr hussien\EgyptionCurrancy\EgyptionCurrancy\bin\Debug\EgyptionCurrancy.pdb
+E:\courses\Visual Tasks\Tasks of Dr hussien\EgyptionCurrancy\EgyptionCurrancy\obj\Debug\EgyptionCurrancy.csprojResolveAssemblyReference.cache
+E:\courses\Visual Tasks\Tasks of Dr hussien\EgyptionCurrancy\EgyptionCurrancy\obj\Debug\EgyptionCurrancy.Form1.resources
+E:\courses\Visual Tasks\Tasks of Dr hussien\EgyptionCurrancy\EgyptionCurrancy\obj\Debug\EgyptionCurrancy.Properties.Resources.resources
+E:\courses\Visual Tasks\Tasks of Dr hussien\EgyptionCurrancy\EgyptionCurrancy\obj\Debug\EgyptionCurrancy.csproj.GenerateResource.Cache
+E:\courses\Tasks\Tasks of Dr hussien\EgyptionCurrancy\EgyptionCurrancy\bin\Debug\EgyptionCurrancy.exe.config
+E:\courses\Tasks\Tasks of Dr hussien\EgyptionCurrancy\EgyptionCurrancy\obj\Debug\EgyptionCurrancy.exe
+E:\courses\Tasks\Tasks of Dr hussien\EgyptionCurrancy\EgyptionCurrancy\obj\Debug\EgyptionCurrancy.pdb
+E:\courses\work\C#\EgyptionCurrancy\EgyptionCurrancy\bin\Debug\EgyptionCurrancy.exe.config
+E:\courses\work\C#\EgyptionCurrancy\EgyptionCurrancy\obj\Debug\EgyptionCurrancy.exe
+E:\courses\work\C#\EgyptionCurrancy\EgyptionCurrancy\obj\Debug\EgyptionCurrancy.pdb
+E:\courses\work\C#\EgyptionCurrancy\EgyptionCurrancy\bin\Debug\EgyptionCurrancy.exe
+E:\courses\work\C#\EgyptionCurrancy\EgyptionCurrancy\bin\Debug\EgyptionCurrancy.pdb
+E:\courses\work\C#\EgyptionCurrancy\EgyptionCurrancy\obj\Debug\EgyptionCurrancy.csprojResolveAssemblyReference.cache
+E:\courses\work\C#\EgyptionCurrancy\EgyptionCurrancy\obj\Debug\EgyptionCurrancy.Form1.resources
+E:\courses\work\C#\EgyptionCurrancy\EgyptionCurrancy\obj\Debug\EgyptionCurrancy.Properties.Resources.resources
+E:\courses\work\C#\EgyptionCurrancy\EgyptionCurrancy\obj\Debug\EgyptionCurrancy.csproj.GenerateResource.Cache
